@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @cd-space-dot-dot
 - 👀 I’m interested in programming basics, AI, automation and operations
 - 🌱 I’m currently learning how to use AI in coding. Along the way I'm learning a bit about coding too!
-- 💞️ I’m looking to collaborate on building new and interesting things :) I also love to help break things down into plain, accessible language
-- 📫 Reach me here!
+- 💞️ I’m looking to collaborate on building new and interesting things :) I also love to help break things down into plain language
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I've been bucked off a horse and got right back on!
+- ⚡ Fun fact: I walked part of the Camino de Santiago in Spain!
 
 <!---
 cd-space-dot-dot/cd-space-dot-dot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
